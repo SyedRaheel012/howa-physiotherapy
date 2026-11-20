@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://syedraheel012.github.io/howa-physiotherapy/sitemap.xml
